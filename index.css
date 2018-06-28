@@ -48,14 +48,14 @@ body {
 	background-image: url("media/site_images/background_wood.jpg");
 	background-attachment: fixed;
 	height: 90vh;
-	padding-top: 20px;
+	padding-top: 2vh;
 	text-align: center;
 }
 
 #navbar {
 	color: white;
 	margin: 0 auto;
-	max-width: 1400px;
+	max-width: 1250px;
 	background-color: #E3D1C2;
 }
 
@@ -63,7 +63,7 @@ body {
 	display: inline-block;
 	font-family: Galada;
 	color: #1C0E06;
-	margin-right: 400px;
+	margin-right: 250px;
 	font-size: 50px;
 }
 
