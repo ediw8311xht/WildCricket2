@@ -1,4 +1,4 @@
-var slide_position = 2;
+var slide_position = 1;
 
 function showSlide() {
 	console.log(slide_position);
