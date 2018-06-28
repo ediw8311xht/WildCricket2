@@ -79,7 +79,9 @@ body {
 
 #middle-section {
 	background-color: #553116;
-	padding: 10vh;
+	padding: 20vh;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
 	
 }
 
@@ -87,8 +89,9 @@ body {
 	background-color: #E3D1C2;
 	font-family: Lato;
 	color: #1C0E06;
-	padding: 20vh;
+	padding: 25vh;
 	padding-top: 10vh;
+	padding-bottom: 10vh;
 }
 #bottom-section {
 	height: 400px;
